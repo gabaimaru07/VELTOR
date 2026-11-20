@@ -1,0 +1,9 @@
+.DS_Store
+.env
+/vendor/
+/uploads/*
+!/uploads/.gitkeep
+!/uploads/.htaccess
+/logs/*
+!/logs/.gitkeep
+!/logs/.htaccess

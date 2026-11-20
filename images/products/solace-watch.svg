@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 740">
+  <rect width="640" height="740" fill="#f4f3f0"/>
+  <ellipse cx="320" cy="385" rx="168" ry="250" fill="#e7e4dc"/>
+  <g transform="rotate(-14 320 367)">
+    <path d="M278 105h84l20 166h-124zM258 466h124l-20 166h-84z" fill="#c7a969"/>
+    <path d="M278 107h84l8 65H270zM270 560h100l-8 71h-84z" fill="#b99757"/>
+    <circle cx="320" cy="368" r="127" fill="#b68e40"/>
+    <circle cx="320" cy="368" r="106" fill="#f9f8f4" stroke="#e4d6b7" stroke-width="6"/>
+    <circle cx="320" cy="368" r="7" fill="#685a43"/>
+    <path d="M320 368v-61M320 368l44 28" stroke="#292824" stroke-width="7" stroke-linecap="round"/>
+    <path d="M320 281v11M407 368h-11M320 455v-11M233 368h11" stroke="#8f7747" stroke-width="5"/>
+    <path d="M298 242h44" stroke="#c3a568" stroke-width="4"/>
+  </g>
+  <text x="320" y="690" fill="#77736d" font-family="Arial,sans-serif" font-size="15" letter-spacing="5" text-anchor="middle">SOLACE · GOLD</text>
+</svg>
